@@ -68,11 +68,10 @@ A grocery and retail e-commerce platform designed to support multiple administra
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-saeed-78&show_icons=true&theme=tokyonight&hide_border=true" alt="Muhammad Saeed GitHub Statistics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-saeed-78&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Programming Languages" height="165" />
+  <img src="https://streak-stats.demolab.com?user=muhammad-saeed-78&theme=tokyonight&hide_border=true" alt="Muhammad Saeed GitHub Streak" />
 </p>
 
 ---
