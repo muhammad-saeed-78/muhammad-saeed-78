@@ -1,103 +1,179 @@
-# Muhammad Saeed | Full-Stack Developer & Software Engineer
+<div align="center">
 
-Hi, I'm **Muhammad Saeed**, a Full-Stack Web Developer and Software Engineering Student based in **Karachi, Pakistan**.
+# Muhammad Saeed
 
-I specialize in building modern, scalable, and user-focused web applications using **PHP, Laravel, JavaScript, and MySQL**. I'm also deeply interested in **Artificial Intelligence (AI), AI Integration**, and intelligent software solutions.
+### Full-Stack Developer & Software Engineer
 
-Currently pursuing an **Advanced Diploma in Software Engineering (ADSE)** at Aptech, I focus on turning ideas into practical software products through clean code, problem-solving, and continuous learning. My goal is to build impactful digital solutions that solve real-world problems.
+**Building scalable web applications and AI-powered products, from idea to deployment.**
 
-🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/muhammad-saeed78/) • [GitHub](https://github.com/muhammad-saeed-78)
+📍 Karachi, Pakistan &nbsp;•&nbsp; 🎓 ADSE, Aptech &nbsp;•&nbsp; 🤖 AI Integration Enthusiast
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saeed78/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammad-saeed-78)
+![Status](https://img.shields.io/badge/Open_to-Freelance_%7C_Collaboration_%7C_Roles-F57C00?style=for-the-badge)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Full-Stack Web Developer** and **Software Engineering student** who builds modern, scalable, and user-focused applications with **PHP, Laravel, JavaScript, and MySQL**. I'm especially interested in **AI integration**: turning large language models into practical products people actually use.
+
+I turn ideas into working software through clean code, problem-solving, and continuous learning, with the goal of building digital solutions that solve real-world problems.
+
+| | |
+|---|---|
+| 🎓 **Education** | Advanced Diploma in Software Engineering (ADSE), Aptech |
+| 🏆 **Highlight** | Mega Vision Winner & Solo Exhibitor at Aptech Vision Software Exhibition |
+| 👨‍💻 **Leadership** | Led a 6-member team in Aptech's TechWiz 7 Global Competition |
+| 🎙️ **Speaking** | Talks on technology and skill development, including at Interlink Institute |
+| 🚧 **Currently building** | Multi-Admin E-Commerce & Inventory Management System |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎓 LecGenie — AI-Powered Gamified Learning Platform
-An AI-powered educational platform designed to transform lecture materials into interactive and engaging learning experiences.
-* **Features:** AI-generated summaries, interactive MCQs, flashcards, mind maps, and voice-narrated study notes.
-* **Technologies:** React.js, Vite, Node.js, Express.js, Firebase, Firestore, Groq API, LLaMA 3.3 70B.
-* **Recognition:** Winner of Aptech's internal **Mega Vision** competition.
-* **Exhibition:** Selected as a solo exhibitor at the **Aptech Vision Software Exhibition**, Pearl Continental Hotel, Karachi.
+### 🎓 LecGenie: AI-Powered Gamified Learning Platform
 
-### 💰 Campus Coin — Student Budget & Expense Management System
-A full-stack personal finance platform designed to help students track expenses, manage budgets, monitor transactions, and develop better financial habits.
-* **Features:** Expense tracking, budget management, transaction management, and financial reporting.
-* **Technologies:** PHP, Laravel, MySQL, Bootstrap, JavaScript.
-* **Leadership:** Led a six-member development team for Aptech's **TechWiz 7 Global Competition**.
+> Transforms lecture materials into interactive, engaging study experiences.
 
-### 🏭 PETBot — Industrial Manufacturing Web Platform
-A professional web platform developed for a PET/PP/PC bottle manufacturing company, featuring a digital brand presence and product catalog.
-* **Features:** Responsive website, product catalog, and business-focused web interface.
-* **Technologies:** HTML5, CSS3, JavaScript, Bootstrap.
+```mermaid
+flowchart LR
+    A[📄 Lecture Material] --> B[🧠 Groq API<br/>LLaMA 3.3 70B]
+    B --> C[📝 Summaries]
+    B --> D[❓ Interactive MCQs]
+    B --> E[🗂️ Flashcards]
+    B --> F[🕸️ Mind Maps]
+    B --> G[🔊 Voice-Narrated Notes]
+```
 
-### 🛒 Multi-Admin E-Commerce & Inventory Management System *(In Development)*
-A grocery and retail e-commerce platform designed to support multiple administrators, product management, inventory operations, and customer order workflows.
-* **Features:** Multi-admin dashboards, role-based access control, shopping cart, order management, and inventory management.
-* **Technologies:** PHP, Laravel, MySQL, Tailwind CSS, RESTful APIs.
+- **Features:** AI-generated summaries, interactive MCQs, flashcards, mind maps, voice-narrated study notes
+- **Tech:** `React.js` `Vite` `Node.js` `Express.js` `Firebase` `Firestore` `Groq API` `LLaMA 3.3 70B`
+- 🥇 **Winner** of Aptech's internal **Mega Vision** competition
+- 🎤 **Solo exhibitor** at the **Aptech Vision Software Exhibition**, Pearl Continental Hotel, Karachi
 
 ---
 
-## 💻 Other Projects
+### 💰 Campus Coin: Student Budget & Expense Management System
 
-* **📚 BookParadise — Online Bookstore Website:** A bookstore web application focused on presenting books through a clean and user-friendly interface (`HTML`, `CSS`, `JavaScript`, `Bootstrap`).
-* **📰 Bloggia — Technology Blog Website:** A responsive technology blog built with Bootstrap, focusing on structured content presentation and a modern browsing experience (`HTML`, `CSS`, `JavaScript`, `Bootstrap`).
-* **☕ Java Buzz — Coffee Shop Website:** A commercial coffee shop website combining business information, blog content, and location-based features including Leaflet map integration, JSON-based blog content, SEO metadata, sitemap, and `robots.txt` (`HTML`, `CSS`, `JavaScript`, `Bootstrap`, `JSON`, `Leaflet`).
-* **🕌 Digital Islamic Learning Hub + Mini Shop *(Concept)*:** A platform combining Islamic educational courses and video cards with user authentication and a digital storefront.
+> A full-stack finance platform that helps students build better money habits.
+
+- **Features:** Expense tracking, budget management, transaction management, financial reporting
+- **Tech:** `PHP` `Laravel` `MySQL` `Bootstrap` `JavaScript`
+- 👨‍💻 **Led a 6-member team** for Aptech's **TechWiz 7 Global Competition**
+
+---
+
+### 🏭 PETBot: Industrial Manufacturing Web Platform
+
+> A professional digital presence and product catalog for a PET/PP/PC bottle manufacturer.
+
+- **Features:** Responsive website, product catalog, business-focused interface
+- **Tech:** `HTML5` `CSS3` `JavaScript` `Bootstrap`
+
+---
+
+### 🛒 Multi-Admin E-Commerce & Inventory Management System 🚧 *In Development*
+
+> A grocery and retail platform with multiple administrators and full order workflows.
+
+- **Features:** Multi-admin dashboards, role-based access control, shopping cart, order management, inventory operations
+- **Tech:** `PHP` `Laravel` `MySQL` `Tailwind CSS` `RESTful APIs`
+
+---
+
+## 💻 More Projects
+
+| Project | What It Is | Tech |
+|:--|:--|:--|
+| 📚 **BookParadise** | Online bookstore with a clean, user-friendly interface | `HTML` `CSS` `JavaScript` `Bootstrap` |
+| 📰 **Bloggia** | Responsive technology blog with structured content presentation | `HTML` `CSS` `JavaScript` `Bootstrap` |
+| ☕ **Java Buzz** | Coffee shop website with Leaflet map, JSON blog content, SEO metadata, sitemap, and robots.txt | `HTML` `CSS` `JavaScript` `Bootstrap` `JSON` `Leaflet` |
+| 🕌 **Digital Islamic Learning Hub + Mini Shop** *(Concept)* | Islamic courses, video cards, login, and a digital storefront | Concept stage |
 
 ---
 
 ## 🏆 Achievements, Awards & Leadership
 
-* 🥇 **Mega Vision Winner — Aptech:** Recognized for developing LecGenie, an AI-powered educational platform.
-* 🎤 **Solo Exhibitor — Aptech Vision:** Selected to showcase LecGenie at Pearl Continental Hotel, Karachi.
-* 👨‍💻 **Team Leader — TechWiz 7 Global Competition:** Led a six-member development team in building Campus Coin.
-* 🏅 **Student of the Month:** Recognized at Aptech for academic performance.
-* 🏆 **Project of the Month:** Recognized for software development and project execution.
-* 🎙️ **Public Speaker:** Delivered talks on technology and skill development, including at Interlink Institute.
+| Recognition | Details |
+|:--|:--|
+| 🥇 **Mega Vision Winner** | Aptech, for developing LecGenie |
+| 🎤 **Solo Exhibitor** | Aptech Vision Software Exhibition, PC Hotel, Karachi |
+| 👨‍💻 **Team Leader** | TechWiz 7 Global Competition, Campus Coin |
+| 🏅 **Student of the Month** | Aptech |
+| 🏆 **Project of the Month** | Aptech |
+| 🎙️ **Public Speaker** | Technology and skill development talks, including Interlink Institute |
 
 ---
 
-## 🛠️ Technical Skills & Technologies
+## 🛠️ Tech Stack
 
-* **Programming Languages:** PHP, JavaScript (ES6+), C#
-* **Backend Development:** Laravel, PHP, Node.js, Express.js, RESTful APIs
-* **Frontend Development:** HTML5, CSS3, JavaScript, React.js, Bootstrap, Tailwind CSS, jQuery
-* **Databases:** MySQL, Firebase Firestore, Microsoft SQL Server
-* **Artificial Intelligence & Integration:** Generative AI Integration, Groq API, LLM-Powered Applications, AI Educational Solutions
-* **Tools & Platforms:** Git, GitHub, VS Code, WordPress, Vite
+**Languages**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+**Backend**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**AI & Integration**
+![Generative AI](https://img.shields.io/badge/Generative_AI-8E24AA?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge)
+![LLM Apps](https://img.shields.io/badge/LLM--Powered_Apps-1E88E5?style=for-the-badge)
+![EdTech AI](https://img.shields.io/badge/AI_Educational_Solutions-43A047?style=for-the-badge)
+
+**Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
-## 📊 GitHub Activity
+## 🎯 Interests
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=muhammad-saeed-78&theme=tokyonight&hide_border=true" alt="Muhammad Saeed GitHub Streak" />
-</p>
+🌐 Full-Stack Web Development &nbsp;•&nbsp; 🤖 AI Integration &nbsp;•&nbsp; 📈 SaaS Product Development &nbsp;•&nbsp; 🧩 Problem Solving &nbsp;•&nbsp; 📚 Continuous Learning
 
 ---
 
-## 🎯 What I'm Interested In
+## 🤝 Let's Work Together
 
-* Full-Stack Web Development & Software Engineering
-* Artificial Intelligence & AI Integration
-* Scalable Web Applications & SaaS Product Development
-* Problem Solving & Continuous Learning
+I'm open to **freelance web development projects**, **software collaborations**, **professional networking**, and **software engineering opportunities**.
 
----
-
-## 📫 Contact & Professional Links
-
-I'm open to professional networking, freelance web development projects, software collaborations, and opportunities in software engineering.
-
-* **Name:** Muhammad Saeed
-* **Profession:** Full-Stack Web Developer
-* **Location:** Karachi, Pakistan
-* **LinkedIn:** [linkedin.com/in/muhammad-saeed78](https://www.linkedin.com/in/muhammad-saeed78/)
-* **GitHub:** [github.com/muhammad-saeed-78](https://github.com/muhammad-saeed-78)
+| | |
+|:--|:--|
+| 👤 **Name** | Muhammad Saeed |
+| 💼 **Role** | Full-Stack Web Developer & Software Engineer |
+| 📍 **Location** | Karachi, Pakistan |
+| 🔗 **LinkedIn** | [linkedin.com/in/muhammad-saeed78](https://www.linkedin.com/in/muhammad-saeed78/) |
+| 🐙 **GitHub** | [github.com/muhammad-saeed-78](https://github.com/muhammad-saeed-78) |
 
 ---
 
-<p align="center">
-  ⭐ <em>If you find my projects interesting, feel free to explore my repositories, connect with me, or collaborate on something meaningful.</em><br>
-  <strong>Building solutions. Writing code. Creating impact. 🚀</strong>
-</p>
+<div align="center">
+
+⭐ *If you find my projects interesting, explore my repositories, connect with me, or collaborate on something meaningful.*
+
+**Building solutions. Writing code. Creating impact. 🚀**
+
+<sub>Full-Stack Developer • Laravel • PHP • React • AI Integration • Karachi, Pakistan</sub>
+
+</div>
